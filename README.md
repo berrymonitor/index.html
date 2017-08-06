@@ -16,6 +16,8 @@ bb.js (bb=BlueBerry) --- Contains a FeatureCollection of the most likely areas, 
 
 bb_decim.js --- Is an alternative, decimated version of the FeatureCollection - featuring only 5-decimals in the WGS-84 coordinates. Smaller in size to improve load times.
 
+worldwind.min.js --- The latest Web World Wind source code. In case non-secure http-connection is OK, please use http://worldwindserver.net/webworldwind/worldwind.min.js
+
 For more information, please contact atte.korhonen@aalto.fi
 
 TO BE REMOVED 
