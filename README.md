@@ -4,6 +4,7 @@
 For the www.berrymonitor.com, the bb.js and worldwind.min.js are downloaded from BerryMonitor AWS bucket.
 
 https://s3-eu-west-1.amazonaws.com/berrymonitor/worldwind.min.js
+
 https://s3-eu-west-1.amazonaws.com/berrymonitor/bb.js
 
 index.html contains the Web World Wind code for a webpage - including visual settings and other parameters. This can be copy-pasted to nearly any website with minor modifications.
