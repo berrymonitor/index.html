@@ -1,4 +1,4 @@
-# Berry monitoring application using NASA Web World Wind for visualization. 
+# NASA Web World Wind visualization and open-access data based berry mapping
 
 The spectrum libraries, applications, data processing and data visualization will open-sourced in the near future, as development continues. 
 
