@@ -1,4 +1,6 @@
-Berry monitoring application using NASA Web World Wind for visualization. The spectrum libraries, applications, data processing and data visualization will open-sourced in the near future, as development continues. 
+#Berry monitoring application using NASA Web World Wind for visualization. 
+
+The spectrum libraries, applications, data processing and data visualization will open-sourced in the near future, as development continues. 
 
 The current bb.js areas are based on open satellite data (Landsat, Sentinel) combined with open land cover and forestry data (Corine, VMI).
 
