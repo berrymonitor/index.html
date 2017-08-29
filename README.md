@@ -5,11 +5,7 @@ The spectrum libraries, applications, data processing and data visualization wil
 
 The current bb.js areas are based on open satellite data (Landsat, Sentinel) combined with open land cover and forestry data (Corine, VMI).
 
-Visit www.berrymonitor.com for more information. The open encyclopedia for natural products - BerryWiki www.berry.wiki is also up and running.
-
-berry.wiki/blueberry
-berry.wiki/raspberry
-berry.wiki/lingonberry (and more on the way...)
+Visit www.berrymonitor.com for more information. 
 
 For the www.berrymonitor.com, the bb.js and worldwind.min.js are downloaded from BerryMonitor AWS bucket.
 
@@ -31,6 +27,12 @@ bb.js (bb=BlueBerry) --- Contains a FeatureCollection of the most likely areas, 
 bb_decim.js --- Is an alternative, decimated version of the FeatureCollection - featuring only 5-decimals in the WGS-84 coordinates. Smaller in size to improve load times.
 
 worldwind.min.js --- The latest Web World Wind source code. In case non-secure http-connection is OK, please use http://worldwindserver.net/webworldwind/worldwind.min.js
+
+The open encyclopedia for natural products - BerryWiki www.berry.wiki is also up and running.
+
+www.berry.wiki/blueberry
+www.berry.wiki/raspberry
+www.berry.wiki/lingonberry (and more on the way...)
 
 For more information, please contact atte.korhonen@aalto.fi
 
