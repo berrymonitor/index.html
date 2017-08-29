@@ -1,4 +1,4 @@
-# NASA Web World Wind visualization and open-access data based berry mapping
+# NASA Web World Wind visualization and open-access data based berry mapping.
 # CURRENT VERSION [1.1] - UPDATED 29.8.2017
 
 The spectrum libraries, applications, data processing and data visualization will open-sourced in the near future, as development continues. 
